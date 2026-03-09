@@ -9,6 +9,12 @@ This repository contains the implementation of the paper **“AutoDataset: An Au
 
 > All figures and experimental results in the paper (e.g., growth curves of dataset papers over time, model comparisons, etc.) can be reproduced using scripts in this repository.
 
+<video src="./assets/AutoDataset.mp4" controls="controls" width="100%">
+  您的浏览器不支持播放该视频！
+</video>
+
+
+
 ## Environment
 
 - Python >= 3.9
