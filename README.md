@@ -9,8 +9,7 @@ This repository contains the implementation of the paper **“AutoDataset: An Au
 
 > All figures and experimental results in the paper (e.g., growth curves of dataset papers over time, model comparisons, etc.) can be reproduced using scripts in this repository.
 
-<video src="https://github.com/EIT-NLP/AutoDataset/raw/main/assets/AutoDataset.mp4" controls="controls" width="100%">
-</video>
+![AutoDataset 演示视频](./assets/AutoDataset.mp4)
 
 
 
